@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Software Development.
-- 🌱 I’m currently learning a lot of things - Golang, Typescript, programming languages in general and many more.
+- 🔭 I’m currently working as a Scala Software Developer at MOIA.
 - 📫 How to reach me: arut.jinadit@gmail.com
 - 😄 Pronouns: he/him
